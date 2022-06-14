@@ -1,1 +1,1 @@
-verdure = ['cavolo', 'carota', 'spinaci', 'asparagi', 'carciofo', 'zucca', 'lattuga']
+verdure = ['cavolo', 'carota', 'spinaci', 'asparagi', 'carciofo', 'lattuga']
